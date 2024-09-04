@@ -1,3 +1,3 @@
 shell permission to switch user
 echo "su betty" > 0-iam_betty
-chmod +x who_am_i
+chmod +x 1-who_am_i
